@@ -9,7 +9,7 @@
     "geom:bbox":"-94.76081,39.043986,-94.64957,39.116816",
     "geom:latitude":39.083444,
     "geom:longitude":-94.707037,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":51926962.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 37",
     "uscensus:sldlst":"037",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486645,
     "wof:geomhash":"b13b6360fe3c72a712a758cab54d63cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765201,
     "wof:lastmodified":1481486645,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

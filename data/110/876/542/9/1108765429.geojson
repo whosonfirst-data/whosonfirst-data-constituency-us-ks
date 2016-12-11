@@ -9,7 +9,7 @@
     "geom:bbox":"-97.15333,36.998643,-95.50747,38.43453",
     "geom:latitude":37.662993,
     "geom:longitude":-96.275537,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":16167580372.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 14",
     "uscensus:sldust":"014",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486669,
     "wof:geomhash":"61de4d2b567a0dc376d1458e0cfc20b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765429,
     "wof:lastmodified":1481486669,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

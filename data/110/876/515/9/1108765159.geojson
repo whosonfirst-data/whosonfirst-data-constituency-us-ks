@@ -9,7 +9,7 @@
     "geom:bbox":"-94.66771,38.93275,-94.60798,38.98587",
     "geom:latitude":38.961044,
     "geom:longitude":-94.63577,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":20570572.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 19",
     "uscensus:sldlst":"019",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486642,
     "wof:geomhash":"649773328957713e7afd24f25c165071",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765159,
     "wof:lastmodified":1481486642,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

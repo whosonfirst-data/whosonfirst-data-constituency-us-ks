@@ -9,7 +9,7 @@
     "geom:bbox":"-97.30441,37.55526,-97.15275,37.650313",
     "geom:latitude":37.605751,
     "geom:longitude":-97.224288,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":120594396.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 81",
     "uscensus:sldlst":"081",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486654,
     "wof:geomhash":"ae15df6ee8ee784385430be3852a77e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765299,
     "wof:lastmodified":1481486654,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

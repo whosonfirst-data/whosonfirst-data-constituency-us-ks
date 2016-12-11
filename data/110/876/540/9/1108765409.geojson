@@ -9,7 +9,7 @@
     "geom:bbox":"-94.9658,38.9914,-94.74186,39.392452",
     "geom:latitude":39.194766,
     "geom:longitude":-94.871446,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":287249412.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 5",
     "uscensus:sldust":"005",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486667,
     "wof:geomhash":"621cff879c82e8aefacdb70a6dcc0c62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765409,
     "wof:lastmodified":1481486667,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

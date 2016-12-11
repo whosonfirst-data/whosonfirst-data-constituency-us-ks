@@ -9,7 +9,7 @@
     "geom:bbox":"-97.70224,37.74039,-97.15248,38.175081",
     "geom:latitude":37.98961,
     "geom:longitude":-97.433413,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1914816703.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 31",
     "uscensus:sldust":"031",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486673,
     "wof:geomhash":"f87bc3a09e53368addc0889abe98aced",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765469,
     "wof:lastmodified":1481486673,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

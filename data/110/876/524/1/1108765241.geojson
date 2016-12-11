@@ -9,7 +9,7 @@
     "geom:bbox":"-95.73192,39.02948,-95.67441,39.074099",
     "geom:latitude":39.053272,
     "geom:longitude":-95.704541,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":16348439.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 55",
     "uscensus:sldlst":"055",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486649,
     "wof:geomhash":"52c3c6308025d42069fee81beccaa9f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765241,
     "wof:lastmodified":1481486649,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-96.35221,38.98576,-95.5893,39.274994",
     "geom:latitude":39.122053,
     "geom:longitude":-95.957088,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1275809361.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 18",
     "uscensus:sldust":"018",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486670,
     "wof:geomhash":"147de38f2dc2f60b80d9b34d4ab380f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765439,
     "wof:lastmodified":1481486670,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

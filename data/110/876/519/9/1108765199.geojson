@@ -9,7 +9,7 @@
     "geom:bbox":"-94.9014,39.11419,-94.73145,39.202911",
     "geom:latitude":39.161589,
     "geom:longitude":-94.822499,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":108877107.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 36",
     "uscensus:sldlst":"036",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486645,
     "wof:geomhash":"dc3977d7543d5af2c296cb6fb491a19d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765199,
     "wof:lastmodified":1481486645,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],

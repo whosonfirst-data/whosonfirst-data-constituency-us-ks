@@ -9,7 +9,7 @@
     "geom:bbox":"-94.74775,38.949323,-94.7003,39.000133",
     "geom:latitude":38.975588,
     "geom:longitude":-94.723821,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":16770323.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 23",
     "uscensus:sldlst":"023",
     "uscensus:statefp":"20",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486643,
     "wof:geomhash":"27bd52471bec5b7efe08d4343ff29cfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108765169,
     "wof:lastmodified":1481486643,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688555,
     "wof:repo":"whosonfirst-data-constituency-us-ks",
     "wof:superseded_by":[],
     "wof:supersedes":[],
